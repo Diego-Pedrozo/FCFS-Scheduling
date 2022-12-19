@@ -22,6 +22,11 @@ input[type=number] {
     transition: 500ms;
 }
 
+.procesoCompletado{
+    color: black;
+    background-color: greenyellow;
+}
+
 .example1 {
  height: 50px;  
  overflow: hidden;
